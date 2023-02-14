@@ -7,6 +7,7 @@ public class project {
 		System.err.println("**Step1: Enter the base of the number which is to be converted**");
 		System.err.println("**Step2 : Enter the number corresponding to the input base**");
 		System.err.println("**Step3 : Enter the output base to which it should be converted**");
+		Hello all
 		*/
 		Scanner in = new Scanner(System.in);
 		
